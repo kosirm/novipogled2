@@ -719,7 +719,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Novi Pogled je inovator na području online savjetovanja i terapije.<br>Pratimo trendove i prilagođavamo ponudu potrebama ljudi.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"usluge.html\" data-toolbar=\"-mbrBtnMove\">SAZNAJ VIŠE</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"usluge.html\" data-toolbar=\"-mbrBtnMove\">NAZOVI</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"index.html#features11-3\" data-toolbar=\"-mbrBtnMove\">SAZNAJ VIŠE</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"usluge.html\" data-toolbar=\"-mbrBtnMove\">NAZOVI</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/czpy9miucaaxnia-1200x801.jpg",
@@ -736,7 +736,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Povjerljivi razgovori ne trebaju biti povezani sa neugodnim <br>prostorijama i čekanjem na red.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"usluge.html\" data-toolbar=\"-mbrBtnMove\">SAZNAJ VIŠE</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"usluge.html\" data-toolbar=\"-mbrBtnMove\">NAZOVI</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"index.html#features11-4\" data-toolbar=\"-mbrBtnMove\">SAZNAJ VIŠE</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"usluge.html\" data-toolbar=\"-mbrBtnMove\">NAZOVI</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/arbol-ciudad-1280x853.jpg",
@@ -753,7 +753,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Razgovor o osobnim stvarima je pitanje povjerenja.<br>Nitko ne želi iznositi osobne stvari u javnost.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" href=\"usluge.html\" data-toolbar=\"-mbrBtnMove\">SAZNAJ VIŠE</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"usluge.html\" data-toolbar=\"-mbrBtnMove\">NAZOVI</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" href=\"index.html#features11-5\" data-toolbar=\"-mbrBtnMove\">SAZNAJ VIŠE</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"usluge.html\" data-toolbar=\"-mbrBtnMove\">NAZOVI</a>"
               }
             ]
           }
