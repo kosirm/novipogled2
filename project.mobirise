@@ -731,10 +731,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "TAMO GDJE JA HOČU",
+                "title": "TAMO GDJE SE <br>OSJEČAM DOBRO",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Samo mi znamo gdje i kada se osječamo ugodno i sigurno. <br>Povjerljivi razgovori ne trebaju biti povezani sa neugodnim <br>prostorijama i čekanjem na red.",
+                "text": "Povjerljivi razgovori ne trebaju biti povezani sa neugodnim <br>prostorijama i čekanjem na red.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">SAZNAJ VIŠE</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">NAZOVI</a>"
               },
               {
@@ -751,7 +751,7 @@
                 "title": "PRAVO NA PRIVATNOST",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Razgovor o osobnim stvarima je pitanje povjerenja.<br>Nitko ne želi da mu u osobne stvari nos zabadaju stranci.",
+                "text": "Razgovor o osobnim stvarima je pitanje povjerenja.<br>Nitko ne želi iznositi osobne stvari u javnost.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info display-4\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">SAZNAJ VIŠE</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">NAZOVI</a>"
               }
             ]
