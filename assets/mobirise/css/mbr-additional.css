@@ -3074,10 +3074,35 @@ body {
     font-size: 40px !important;
   }
 }
+.cid-qHDOTZGUMu {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qHDOTZGUMu .line {
+  background-color: #00b140;
+  color: #00b140;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qHDOTZGUMu .section-text {
+  padding: 2rem 0;
+  color: #767676;
+  text-align: left;
+}
+.cid-qHDOTZGUMu .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qHDOTZGUMu .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-qHDM5ncDZZ {
   padding-top: 0px;
   padding-bottom: 60px;
-  background-color: #f9f9f9;
+  background-color: #ffffff;
 }
 .cid-qB5TbGBYlX {
   padding-top: 90px;
